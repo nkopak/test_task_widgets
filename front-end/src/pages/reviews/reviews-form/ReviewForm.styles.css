@@ -1,0 +1,8 @@
+.p-inputtextarea,
+.p-inputtext {
+  @apply border-2 border-solid border-gray-500 rounded-none w-full p-2;
+}
+
+.p-checkbox-box {
+  @apply border-2 border-solid border-gray-500 rounded-none w-full;
+}

@@ -1,0 +1,4 @@
+.main-page-btn {
+  @apply bg-bismark text-white text-6xl w-1/4 m-4 h-1/4 transition duration-300 transform
+   hover:bg-white hover:text-bismark;
+}

@@ -1,0 +1,53 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "Blended Sienna",
+      "brand": "COREtec Premium",
+      "availability": ["2650 Street"],
+      "price": "100"
+    },
+    {
+      "id": "2",
+      "title": "Rustic Oak",
+      "brand": "COREtec Premium",
+      "availability": ["124 Maple Avenue", "890 Pine Street"],
+      "price": "120"
+    },
+    {
+      "id": "3",
+      "title": "Golden Maple",
+      "brand": "COREtec Premium",
+      "availability": [],
+      "price": "95"
+    },
+    {
+      "id": "4",
+      "title": "Mahogany Bliss",
+      "brand": "COREtec Premium",
+      "availability": ["432 Oak Drive", "665 Cedar Street"],
+      "price": "150"
+    },
+    {
+      "id": "5",
+      "title": "Slate Gray Elegance",
+      "brand": "COREtec Premium",
+      "availability": ["987 Pine Street"],
+      "price": "110"
+    },
+    {
+      "id": "6",
+      "title": "Vintage Hickory",
+      "brand": "COREtec Premium",
+      "availability": ["325 Walnut Avenue", "556 Elm Street"],
+      "price": "130"
+    },
+    {
+      "id": "7",
+      "title": "Urban Concrete",
+      "brand": "COREtec Premium",
+      "availability": ["789 Birch Lane"],
+      "price": "85"
+    }
+  ]
+}
